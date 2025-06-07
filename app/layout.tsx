@@ -41,10 +41,10 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "zh_CN",
-    url: "https://moemail.app",
+    url: "https://cloumail.com",
     title: "ClouMail - 开心果临时邮箱服务",
     description: "安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。",
-    siteName: "MoeMail",
+    siteName: "ClouMail",
   },
   twitter: {
     card: "summary_large_image",
